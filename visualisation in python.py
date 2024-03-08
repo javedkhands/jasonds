@@ -15,7 +15,7 @@ import plotly.express as px
 # In[3]:
 
 
-df=pd.read_csv("C:/Users/bhaim/Downloads/advertising.csv")
+df=pd.read_csv("price.csv")
 
 
 # In[4]:
